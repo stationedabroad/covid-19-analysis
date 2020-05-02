@@ -6,4 +6,4 @@ Another link of use by the CDC:
 https://www.cdc.gov/coronavirus/2019-ncov/publications.html
 
 Another link compiled by c3.ai which combines various multiple sources of COVID-19 data, daily:
-https://c3.ai/covid-19-api-documentation/
+https://c3.ai/covid-19-api-documentation/ (check quickstart notebook and swagger api schema)
